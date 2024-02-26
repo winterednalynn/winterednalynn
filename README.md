@@ -40,7 +40,7 @@ I consider myself a rookie at programming vs to the big leagues but I am learnin
 <br>
 <br>
 
-## Favorite Projects: 
+## My highlighted projects: 
 - A SQL DATABASE ON Makeup School: 
 https://github.com/winterednalynn/CharmFinalAPI 
 
